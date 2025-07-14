@@ -11,13 +11,13 @@ public class Developer
     
     public double salary { get; set; }
 
-    public Developer(int id, string name, string level, int departmentId , double salary)
+    public Developer(int id, string name, string level, int departmentId , double Salary)
     {
         ID = id;
         Name = name;
         Level = level;
         DepartmentID = departmentId;
-        salary = salary;
+        salary = Salary;
     }
 
     public void Print()
