@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Company", "Company\Company.csproj", "{4DA9DCC5-993E-4049-A680-026D141E82AB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Main", "Main\Main.csproj", "{4DA9DCC5-993E-4049-A680-026D141E82AB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Company System", "Company System\Company System.csproj", "{987C2456-1975-4640-B9E1-456AD6F22D19}"
 EndProject

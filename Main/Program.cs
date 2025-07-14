@@ -2,7 +2,7 @@
 using Company_System.Projects;
 using Company_System.Users;
 
-namespace Company;
+namespace Main;
 
 class Program
 {
@@ -16,7 +16,7 @@ class Program
     bool exit = false;
     while (!exit)
     {
-        Console.WriteLine("\n=== Company System Menu ===");
+        Console.WriteLine("\n=== Main System Menu ===");
         Console.WriteLine("1. Add Department");
         Console.WriteLine("2. Add Developer");
         Console.WriteLine("3. Add Project");
