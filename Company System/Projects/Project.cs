@@ -32,7 +32,7 @@ public class Project
         Console.WriteLine("-----------------------------");
         Console.WriteLine($"Project ID       : {ID}");
         Console.WriteLine($"Title            : {Title}");
-        Console.WriteLine("Assigned Developers:");
+        Console.WriteLine($"Assigned Developers: {DevCount}");
         if (DevCount == 0)
         {
             Console.WriteLine("  - No developers assigned yet.");
